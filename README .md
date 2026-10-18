@@ -1,2 +1,2 @@
-echo "# Plataforma de Saude
+# Plataforma de Saude
 
