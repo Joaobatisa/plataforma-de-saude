@@ -27,11 +27,6 @@ Sistema desenvolvido para informatizar e otimizar as rotinas operacionais, agend
 ```text
 plataforma-de-saude/
 │
-├── docs/                      # Documentação técnica, normas e diagramas UML
-│   ├── normas_aceite.md       # Critérios de aceite alinhados às normas ISO/IEEE
-│   ├── diagrama_casos_uso.png # Modelagem UML de Casos de Uso (Atores e Interações)
-│   └── diagrama_sequencia.png # Fluxo temporal crítico de agendamento
-│
 ├── src/                       # Código-fonte da aplicação (Backend Python)
 ├── templates/                 # Páginas HTML / Interface de Visualização (Frontend)
 ├── .env.example               # Modelo de variáveis de ambiente
