@@ -17,5 +17,24 @@ Sistema desenvolvido para informatizar e otimizar as rotinas operacionais, agend
 - **Linguagem Backend:** Python
 - **Tecnologia Frontend / Interface:** HTML5, CSS3, JavaScript e Templates
 - **Padrão de Projeto:** Arquitetura em Camadas / MVC (Modelos, Views/Controllers, Serviços)
-- **Banco de Dados:** Relacional (SQL) com integridade referencial
+- **Banco de Dados & Servidor:** Relacional (SQL) com XAMPP (MySQL/phpMyAdmin)
+- **Ambiente de Desenvolvimento:** Visual Studio Code (IDE)
 - **Gestão Ágil e Versionamento:** Trello (Kanban) + Git & GitHub
+
+---
+
+## 📂 Estrutura de Diretórios
+```text
+plataforma-de-saude/
+│
+├── docs/                      # Documentação técnica, normas e diagramas UML
+│   ├── normas_aceite.md       # Critérios de aceite alinhados às normas ISO/IEEE
+│   ├── diagrama_casos_uso.png # Modelagem UML de Casos de Uso (Atores e Interações)
+│   └── diagrama_sequencia.png # Fluxo temporal crítico de agendamento
+│
+├── src/                       # Código-fonte da aplicação (Backend Python)
+├── templates/                 # Páginas HTML / Interface de Visualização (Frontend)
+├── .env.example               # Modelo de variáveis de ambiente
+├── .gitignore                 # Arquivos ignorados pelo controle de versão
+├── requirements.txt           # Dependências do projeto Python
+└── README.md                  # Documentação principal do repositório
