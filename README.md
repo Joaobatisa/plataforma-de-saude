@@ -64,6 +64,7 @@ O banco de dados relacional foi criado no MySQL (phpMyAdmin) com chaves primári
 
 ## 5. Estrutura de Diretórios do Repositório
 
+```text
 plataforma-de-saude/
 ├── docs/                   # Documentação, Tabela-Verdade e evidências do projeto (Passos 1 a 3)
 ├── prototype_cli/          # Módulo Python CLI — Menu interativo, cadastros e estatísticas (Passo 2)
